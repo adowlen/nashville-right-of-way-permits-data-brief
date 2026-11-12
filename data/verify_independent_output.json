@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "rows": true,
+    "excavation_n": true,
+    "excavation_days_share": true,
+    "overlap": true,
+    "onstreet_populated": true,
+    "ervin_n": true,
+    "negative_n": true,
+    "median_nonneg": true
+  },
+  "all_pass": true
+}

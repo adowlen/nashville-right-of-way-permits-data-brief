@@ -1,0 +1,25 @@
+group,n,pct_of_all,median_days,total_days,total_days_pct,overlap_nov12
+NDOT Lane Closure-NDOT Project ONLY,5758,28.1,4.0,25141.4,3.6,133
+NDOT Excavation Permit,5056,24.7,90.04,447650.1,64.0,1106
+NDOT Lane Closure - Google,3982,19.4,13.0,51349.4,7.3,101
+NDOT Lane Closure,1392,6.8,6.0,23149.2,3.3,229
+NDOT Excavation Permit - Google,1288,6.3,90.04,115763.9,16.6,314
+NDOT Sidewalk Closure-NDOT Project ONLY,1149,5.6,4.0,6635.4,0.9,31
+NDOT Sidewalk Closure - Google,789,3.8,13.0,10298.9,1.5,34
+NDOT Sidewalk Closure,386,1.9,5.0,5155.7,0.7,86
+NDOT Street Closure - Google,217,1.1,13.0,2855.9,0.4,7
+NDOT Street Closure-NDOT Project ONLY,170,0.8,4.0,1814.2,0.3,4
+NDOT  Street Closure,119,0.6,4.0,2821.7,0.4,16
+NDOT Bike Lane Closure,79,0.4,4.0,826.2,0.1,11
+NDOT Bike Lane Closure-NDOT Project ONLY,36,0.2,4.0,325.0,0.0,0
+"NDOT Trailer, Dumpster, and Storage Unit",28,0.1,17.02,704.3,0.1,15
+NDOT Bike Lane Closure - Google,15,0.1,13.0,324.1,0.0,3
+NDOT Driveway/existing residential only,13,0.1,90.0,1170.0,0.2,3
+NDOT Tactical Urbanism,8,0.0,365.0,2558.0,0.4,7
+NDOT Project Excavation,4,0.0,91.02,351.1,0.1,1
+NDOT ROW Closure,3,0.0,6.0,16.0,0.0,1
+ EXCAVATION PERMIT,2,0.0,90.02,180.0,0.0,0
+ LANE CLOSURE,2,0.0,5.5,11.0,0.0,0
+ SIDEWALK PERMIT,2,0.0,8.5,17.0,0.0,0
+NDOT Film,1,0.0,1.0,1.0,0.0,0
+NDOT ROW Closure - Google,1,0.0,4.0,4.0,0.0,0

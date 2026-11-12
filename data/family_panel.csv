@@ -1,0 +1,7 @@
+group,n,pct_of_all,median_days,total_days,total_days_pct,overlap_nov12
+Lane Closure,11132,54.3,6.0,99640.0,14.3,463
+Excavation,6348,31.0,90.04,563765.1,80.6,1421
+Sidewalk Closure,2324,11.3,6.0,22090.0,3.2,151
+Street Closure,506,2.5,12.48,7491.8,1.1,27
+Bike Lane Closure,130,0.6,6.0,1475.3,0.2,14
+Other,60,0.3,29.87,4661.3,0.7,26
