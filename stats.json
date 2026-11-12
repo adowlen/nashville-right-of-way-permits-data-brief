@@ -1,0 +1,299 @@
+{
+  "dataset": "Nashville Active Right-of-Way Permits (Active_Right-of-Way_Permits, layer 0)",
+  "snapshot_date": "2026-11-12",
+  "rows": 20500,
+  "server_count": 20500,
+  "unit": "one row = one permit record as served by the view",
+  "status_counter": {
+    "ACTIVE": 6,
+    "ISSUE": 20494
+  },
+  "permit_type_counter": {
+    " EXCAVATION PERMIT": 2,
+    " LANE CLOSURE": 2,
+    " SIDEWALK PERMIT": 2,
+    "NDOT  Street Closure": 119,
+    "NDOT Driveway/existing residential only": 13,
+    "NDOT Lane Closure-NDOT Project ONLY": 5758,
+    "NDOT Excavation Permit": 5056,
+    "NDOT Lane Closure": 1392,
+    "NDOT Sidewalk Closure": 386,
+    "NDOT Bike Lane Closure": 79,
+    "NDOT Sidewalk Closure-NDOT Project ONLY": 1149,
+    "NDOT Street Closure-NDOT Project ONLY": 170,
+    "NDOT Lane Closure - Google": 3982,
+    "NDOT Bike Lane Closure-NDOT Project ONLY": 36,
+    "NDOT Sidewalk Closure - Google": 789,
+    "NDOT Excavation Permit - Google": 1288,
+    "NDOT Street Closure - Google": 217,
+    "NDOT Project Excavation": 4,
+    "NDOT Trailer, Dumpster, and Storage Unit": 28,
+    "NDOT Bike Lane Closure - Google": 15,
+    "NDOT Film": 1,
+    "NDOT ROW Closure": 3,
+    "NDOT Tactical Urbanism": 8,
+    "NDOT ROW Closure - Google": 1
+  },
+  "family": {
+    "Lane Closure": {
+      "n": 11132,
+      "pct_of_all": 54.3,
+      "median_days": 6.0,
+      "total_days": 99640.0,
+      "total_days_pct": 14.3,
+      "overlap_nov12": 463
+    },
+    "Excavation": {
+      "n": 6348,
+      "pct_of_all": 31.0,
+      "median_days": 90.04,
+      "total_days": 563765.1,
+      "total_days_pct": 80.6,
+      "overlap_nov12": 1421
+    },
+    "Sidewalk Closure": {
+      "n": 2324,
+      "pct_of_all": 11.3,
+      "median_days": 6.0,
+      "total_days": 22090.0,
+      "total_days_pct": 3.2,
+      "overlap_nov12": 151
+    },
+    "Street Closure": {
+      "n": 506,
+      "pct_of_all": 2.5,
+      "median_days": 12.48,
+      "total_days": 7491.8,
+      "total_days_pct": 1.1,
+      "overlap_nov12": 27
+    },
+    "Bike Lane Closure": {
+      "n": 130,
+      "pct_of_all": 0.6,
+      "median_days": 6.0,
+      "total_days": 1475.3,
+      "total_days_pct": 0.2,
+      "overlap_nov12": 14
+    },
+    "Other": {
+      "n": 60,
+      "pct_of_all": 0.3,
+      "median_days": 29.87,
+      "total_days": 4661.3,
+      "total_days_pct": 0.7,
+      "overlap_nov12": 26
+    }
+  },
+  "channel": {
+    "NDOT Project ONLY": {
+      "n": 7113,
+      "pct_of_all": 34.7,
+      "median_days": 4.0,
+      "total_days": 33916.0,
+      "total_days_pct": 4.9,
+      "overlap_nov12": 168
+    },
+    "Other / general": {
+      "n": 7095,
+      "pct_of_all": 34.6,
+      "median_days": 90.0,
+      "total_days": 484611.4,
+      "total_days_pct": 69.3,
+      "overlap_nov12": 1475
+    },
+    "Google-attributed": {
+      "n": 6292,
+      "pct_of_all": 30.7,
+      "median_days": 13.0,
+      "total_days": 180596.2,
+      "total_days_pct": 25.8,
+      "overlap_nov12": 459
+    }
+  },
+  "company_top_by_n": {
+    "ERVIN CABLE CONSTRUCTION LLC": {
+      "n": 5893,
+      "pct_of_all": 28.7,
+      "median_days": 13.0,
+      "total_days": 166114.5,
+      "total_days_pct": 23.8,
+      "overlap_nov12": 424
+    },
+    "METRO WS INTERNAL DEPT": {
+      "n": 2443,
+      "pct_of_all": 11.9,
+      "median_days": 90.0,
+      "total_days": 217267.5,
+      "total_days_pct": 31.1,
+      "overlap_nov12": 428
+    },
+    "GIBBS, SAMMIE DBA SAMMIE GIBBS CONSTRUCTION": {
+      "n": 1908,
+      "pct_of_all": 9.3,
+      "median_days": 4.0,
+      "total_days": 7551.0,
+      "total_days_pct": 1.1,
+      "overlap_nov12": 113
+    },
+    "Blank": {
+      "n": 1897,
+      "pct_of_all": 9.3,
+      "median_days": 4.0,
+      "total_days": 25397.4,
+      "total_days_pct": 3.6,
+      "overlap_nov12": 146
+    },
+    "GOODWIN, ROY T CONTRACTORS INC": {
+      "n": 1865,
+      "pct_of_all": 9.1,
+      "median_days": 4.0,
+      "total_days": 9806.0,
+      "total_days_pct": 1.4,
+      "overlap_nov12": 35
+    },
+    "C K MASONRY CO INC": {
+      "n": 1158,
+      "pct_of_all": 5.6,
+      "median_days": 1.0,
+      "total_days": 2619.0,
+      "total_days_pct": 0.4,
+      "overlap_nov12": 0
+    },
+    "JONES BROS CONTRACTORS LLC": {
+      "n": 487,
+      "pct_of_all": 2.4,
+      "median_days": 6.0,
+      "total_days": 3865.7,
+      "total_days_pct": 0.6,
+      "overlap_nov12": 7
+    },
+    "TEAM CONSTRUCTION": {
+      "n": 444,
+      "pct_of_all": 2.2,
+      "median_days": 90.0,
+      "total_days": 29907.2,
+      "total_days_pct": 4.3,
+      "overlap_nov12": 85
+    },
+    "STAR CONSTRUCTION LLC": {
+      "n": 347,
+      "pct_of_all": 1.7,
+      "median_days": 90.0,
+      "total_days": 19842.6,
+      "total_days_pct": 2.8,
+      "overlap_nov12": 156
+    },
+    "MIDSOUTH UTILITY GROUP,INC": {
+      "n": 333,
+      "pct_of_all": 1.6,
+      "median_days": 6.0,
+      "total_days": 12754.6,
+      "total_days_pct": 1.8,
+      "overlap_nov12": 19
+    },
+    "JARRETT BUILDERS INC": {
+      "n": 299,
+      "pct_of_all": 1.5,
+      "median_days": 6.0,
+      "total_days": 7722.7,
+      "total_days_pct": 1.1,
+      "overlap_nov12": 9
+    },
+    "SOUTHEAST CONNECTIONS LLC": {
+      "n": 225,
+      "pct_of_all": 1.1,
+      "median_days": 90.04,
+      "total_days": 17664.0,
+      "total_days_pct": 2.5,
+      "overlap_nov12": 84
+    },
+    "ROGERS GROUP INC": {
+      "n": 213,
+      "pct_of_all": 1.0,
+      "median_days": 4.0,
+      "total_days": 850.0,
+      "total_days_pct": 0.1,
+      "overlap_nov12": 0
+    },
+    "WALKER BUILDING GROUP LLC": {
+      "n": 201,
+      "pct_of_all": 1.0,
+      "median_days": 7.0,
+      "total_days": 6026.2,
+      "total_days_pct": 0.9,
+      "overlap_nov12": 13
+    },
+    "MOSS WELDING LLC": {
+      "n": 178,
+      "pct_of_all": 0.9,
+      "median_days": 90.0,
+      "total_days": 14088.6,
+      "total_days_pct": 2.0,
+      "overlap_nov12": 42
+    }
+  },
+  "duration": {
+    "negative_n": 17,
+    "zero_n": 1091,
+    "positive_n": 19392,
+    "median_days_all_nonneg": 13.0,
+    "total_days_nonneg": 699123.5,
+    "buckets": {
+      "0": 1091,
+      "1": 426,
+      "2-7": 6775,
+      "8-30": 5565,
+      "31-91": 6337,
+      ">91": 289,
+      "negative": 17
+    }
+  },
+  "snapshot_overlap": {
+    "overlap_nov12_2026": 2102,
+    "overlap_pct": 10.3,
+    "ended_before_nov12": 18391,
+    "ended_pct": 89.7,
+    "starting_after_nov12": 7
+  },
+  "geography_fields": {
+    "Onstreet_populated": 6,
+    "Council__District_populated": 6,
+    "Zip_populated": 6,
+    "Fromstreet_populated": 20394,
+    "Tostreet_populated": 18917,
+    "LatLon_degrees_populated": 6,
+    "LatLon_stateplane_populated": 20491,
+    "LatLon_blank": 3
+  },
+  "days_to_work_counter": {
+    "Tuesday Wednesday Thursday Friday Saturday ": 4,
+    "Monday Tuesday Wednesday Thursday Friday Saturday Sunday,": 2,
+    "Blank": 4401,
+    "Monday - Friday Only": 9205,
+    "Monday - Saturday Only": 6880,
+    "Weekends Only": 8
+  },
+  "company_blank_n": 1897,
+  "permit_number_zero_n": 20,
+  "initiated_range": [
+    "2022-10-06",
+    "2026-11-10"
+  ],
+  "fromstreet_top": {
+    "Dead End": 249,
+    "Murfreesboro Pike": 126,
+    "Lebanon Pike": 93,
+    "Nolensville Pike": 92,
+    "Gallatin Pike": 88,
+    "Rolling River Pkwy": 86,
+    "Buchanan St": 78,
+    "Old Harding Pike": 74,
+    "Thompson Lane": 66,
+    "Nolensville Pk": 61,
+    "Una Antioch Pike": 61,
+    "Glenrose Ave": 51,
+    "Broadway": 49,
+    "Mid Block": 49,
+    "Dickerson Pike": 46
+  }
+}
